@@ -8,6 +8,6 @@ public class HomeController {
 
 	@GetMapping("/home")
 	public String home() {
-		return "Welcome Jenkins Spring Boot App Home 12";
+		return "Welcome Jenkins Spring Boot App Home 123";
 	}
 }
